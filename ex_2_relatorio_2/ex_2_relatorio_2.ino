@@ -7,15 +7,11 @@
 #define M1 (1 << PD3)
 
 int main(void) {
-    // Definindo as saídas
     DDRD = (AVANCO + RECUO + M1);
-    // Desligando as saídas
     PORTD &= ~(AVANCO + RECUO + M1);
 
-    // Pull-up nos botões liga e desliga
     PORTC = (LIGA + DESLIGA);
 
-    // Habilitando interrupções no portal B
     PCICR = (1 << PCIE0);
     PCMSK0 = (S1 + S2);
 

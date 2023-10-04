@@ -16,7 +16,6 @@
 #define VERIF 50
 
 int main() {
-  //Declarando as saídas:
   DDRD = lamp + m1 + m2 + ele;
   PORTD &= ~(lamp + m1 + m2 + ele);
 
@@ -24,7 +23,6 @@ int main() {
 
   short int estado = ESPERA;
   for (;;) {
-
     short int Desliga;
     Desliga = PINC & desliga;
 
@@ -32,9 +30,7 @@ int main() {
       estado = ESPERA;
 
     switch (estado) {
-
       case ESPERA:
-
         PORTD &= ~(lamp + m1 + m2 + ele);
         short int Liga;
         Liga = PINC & liga;
@@ -42,7 +38,6 @@ int main() {
           estado = ESTEIRA1;
 
         break;
-
       case ESTEIRA1:
         PORTD |= m1;
 
@@ -52,7 +47,6 @@ int main() {
           estado = ELEVADOR;
 
         break;
-
       case ELEVADOR:
         PORTD &= ~(m1);
         _delay_ms(3000);
@@ -65,9 +59,7 @@ int main() {
           estado = ESTEIRA2;
 
         break;
-
       case ESTEIRA2:
-
         PORTD &= ~ele;
         PORTD |= m2;
 
@@ -78,14 +70,12 @@ int main() {
 
         if (S3 == 0)
           estado = VERIF;
-
         else if (S4 == 0)
           estado = ESPERA;
 
         break;
 
       case VERIF:
-
         PORTD &= ~m2;
         for (int i = 0; i < 6; i++) {
           PORTD |= lamp;
@@ -97,6 +87,5 @@ int main() {
 
         break;
     }
-    
   }
 }

@@ -1,15 +1,3 @@
-/* PINAGEM
-    
-Entradas:
-    Sensor - PB3
-    Liga - PB0
-    Desliga - PB1
-
-Saídas:
-    Motor - PD2
-    Alarme - PD6
-*/
-
 #define LIGA (1 << PB0)
 #define DESLIGA (1 << PB1)
 #define SENSOR (1 << PB3)

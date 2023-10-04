@@ -1,16 +1,3 @@
-/* PINAGEM:
-
-    Entradas:
-    Chave Auto/Manual - PD3
-    Liga - PC0
-    Desliga - PC1
-    Sensor Baixo - PD4
-    Sensor Alto - PD5
-    
-    Saídas:
-    Bomba - PB0
-*/
-
 #define LIGA (1 << PC0)
 #define DESLIGA (1 << PC1)
 #define CHAVE (1 << PD3)

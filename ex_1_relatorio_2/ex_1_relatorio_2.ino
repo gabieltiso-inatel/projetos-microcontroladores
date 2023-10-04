@@ -5,23 +5,17 @@
 #define B4 (1 << PD6)
 
 int main(void) {
-    // Pinos que devem estar ativados para interrupção:
-    // PB2, PC4, PD6, PD2
     DDRB |= BUZZER;
 
-    // Habilitando Pull-up nos botões
     PORTB = B1;
     PORTC = B2;
     PORTD = (B3 + B4);
 
-    // Desligando o Buzzer
     PORTB &= ~(BUZZER);
 
-    // Configurando os portais que receberão as interrupções
     PCICR = (1 << PCIE2) + (1 << PCIE1) + (1 << PCIE0);
     EICRA = (1 << ISC01) + (0 << ISC00);
 
-    // Definindo os pinos especificos que receberão a interrupção
     PCMSK0 = B1;
     PCMSK1 = B2;
     PCMSK2 = B4;
