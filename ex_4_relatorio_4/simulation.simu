@@ -1,0 +1,55 @@
+<circuit noLinAcc="5" Simu_Step_nS="1000" reactStep="50" Speed_per="100" Speed_sps="1000000" animate="0" type="simulide_0.4">
+
+Unique  Id: atmega328-1: 
+Circuit Id: atmega328-1
+<item circRot="0" rotation="0" circPos="0,0" Mhz="16" Program="build/arduino.avr.uno/ex_4_relatorio_4.ino.hex" boardPos="-1e+6,-1e+6" valLabelx="0" Logic_Symbol="false" varList=",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," vflip="1" y="-360" eeprom="255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255" valLabRot="0" itemtype="AVR" boardRot="-1e+6" labely="-20" labelrot="0" Show_id="false" Name="" Auto_Load="false" x="-312" id="atmega328-1" hflip="1" objectName="atmega328-1" labelx="0" mainComp="false" valLabely="0"/>
+
+Unique  Id: Voltage Source-2: 
+Circuit Id: Voltage Source-2
+<item circRot="2.1435777e-316" rotation="0" circPos="0,0" Show_Volt="true" boardPos="-1e+6,-1e+6" valLabelx="-26" vflip="1" y="-428" valLabRot="0" Unit=" V" itemtype="Voltage Source" boardRot="-1e+6" labely="-80" labelrot="0" Show_id="false" x="-216" id="Voltage Source-2" hflip="1" objectName="Voltage Source-2" labelx="-40" mainComp="false" Voltage="5" valLabely="10"/>
+
+Unique  Id: Voltage Source-3: 
+Circuit Id: Voltage Source-3
+<item circRot="0" rotation="0" circPos="0,0" Show_Volt="true" boardPos="-1e+6,-1e+6" valLabelx="-26" vflip="1" y="-428" valLabRot="0" Unit=" V" itemtype="Voltage Source" boardRot="-1e+6" labely="-80" labelrot="0" Show_id="false" x="-144" id="Voltage Source-3" hflip="1" objectName="Voltage Source-3" labelx="-40" mainComp="false" Voltage="5" valLabely="10"/>
+
+Unique  Id: Voltage Source-4: 
+Circuit Id: Voltage Source-4
+<item circRot="0" rotation="0" circPos="0,0" Show_Volt="true" boardPos="-1e+6,-1e+6" valLabelx="-26" vflip="1" y="-428" valLabRot="0" Unit=" V" itemtype="Voltage Source" boardRot="-1e+6" labely="-80" labelrot="0" Show_id="false" x="-72" id="Voltage Source-4" hflip="1" objectName="Voltage Source-4" labelx="-40" mainComp="false" Voltage="5" valLabely="10"/>
+
+Unique  Id: Voltage Source-5: 
+Circuit Id: Voltage Source-5
+<item circRot="0" rotation="0" circPos="0,0" Show_Volt="true" boardPos="-1e+6,-1e+6" valLabelx="-26" vflip="1" y="-428" valLabRot="0" Unit=" V" itemtype="Voltage Source" boardRot="-1e+6" labely="-80" labelrot="0" Show_id="false" x="0" id="Voltage Source-5" hflip="1" objectName="Voltage Source-5" labelx="-40" mainComp="false" Voltage="5" valLabely="10"/>
+
+Unique  Id: Voltage Source-7: 
+Circuit Id: Voltage Source-7
+<item circRot="2.2523536e-316" rotation="0" circPos="0,0" Show_Volt="true" boardPos="-1e+6,-1e+6" valLabelx="-26" vflip="1" y="-428" valLabRot="0" Unit=" V" itemtype="Voltage Source" boardRot="-1e+6" labely="-80" labelrot="0" Show_id="false" x="72" id="Voltage Source-7" hflip="1" objectName="Voltage Source-7" labelx="-40" mainComp="false" Voltage="5" valLabely="10"/>
+
+Unique  Id: Voltage Source-13: 
+Circuit Id: Voltage Source-13
+<item circRot="0" rotation="0" circPos="0,0" Show_Volt="true" boardPos="-1e+6,-1e+6" valLabelx="-26" vflip="1" y="-428" valLabRot="0" Unit=" V" itemtype="Voltage Source" boardRot="-1e+6" labely="-80" labelrot="0" Show_id="false" x="144" id="Voltage Source-13" hflip="1" objectName="Voltage Source-13" labelx="-40" mainComp="false" Voltage="5" valLabely="10"/>
+
+Unique  Id: Connector-8: 
+Circuit Id: Connector-8
+<item circRot="4.172289347715537e-309" rotation="0" pointList="-200,-428,-200,-352,-272,-352" circPos="0,0" boardPos="-1e+6,-1e+6" valLabelx="0" vflip="1" y="-428" valLabRot="0" itemtype="Connector" boardRot="-1e+6" labely="-24" labelrot="0" Show_id="false" startpinid="Voltage Source-2-outPin" x="-200" endpinid="atmega328-1-PC5" id="Connector-8" hflip="1" objectName="Connector-8" labelx="-16" mainComp="false" valLabely="0" enodeid="Circ_eNode-14"/>
+
+Unique  Id: Connector-9: 
+Circuit Id: Connector-9
+<item circRot="4.172289347715537e-309" rotation="0" pointList="-128,-428,-128,-344,-272,-344" circPos="0,0" boardPos="-1e+6,-1e+6" valLabelx="0" vflip="1" y="-428" valLabRot="0" itemtype="Connector" boardRot="-1e+6" labely="-24" labelrot="0" Show_id="false" startpinid="Voltage Source-3-outPin" x="-128" endpinid="atmega328-1-PC4" id="Connector-9" hflip="1" objectName="Connector-9" labelx="-16" mainComp="false" valLabely="0" enodeid="Circ_eNode-15"/>
+
+Unique  Id: Connector-10: 
+Circuit Id: Connector-10
+<item circRot="4.172289347715537e-309" rotation="0" pointList="-56,-428,-56,-336,-272,-336" circPos="0,0" boardPos="-1e+6,-1e+6" valLabelx="0" vflip="1" y="-428" valLabRot="0" itemtype="Connector" boardRot="-1e+6" labely="-24" labelrot="0" Show_id="false" startpinid="Voltage Source-4-outPin" x="-56" endpinid="atmega328-1-PC3" id="Connector-10" hflip="1" objectName="Connector-10" labelx="-16" mainComp="false" valLabely="0" enodeid="Circ_eNode-16"/>
+
+Unique  Id: Connector-11: 
+Circuit Id: Connector-11
+<item circRot="4.172289347715537e-309" rotation="0" pointList="16,-428,16,-328,-272,-328" circPos="0,0" boardPos="-1e+6,-1e+6" valLabelx="0" vflip="1" y="-428" valLabRot="0" itemtype="Connector" boardRot="-1e+6" labely="-24" labelrot="0" Show_id="false" startpinid="Voltage Source-5-outPin" x="16" endpinid="atmega328-1-PC2" id="Connector-11" hflip="1" objectName="Connector-11" labelx="-16" mainComp="false" valLabely="0" enodeid="Circ_eNode-17"/>
+
+Unique  Id: Connector-12: 
+Circuit Id: Connector-12
+<item circRot="9.346131853690903e-307" rotation="0" pointList="88,-428,88,-320,-272,-320" circPos="0,0" boardPos="-1e+6,-1e+6" valLabelx="0" vflip="1" y="-428" valLabRot="0" itemtype="Connector" boardRot="-1e+6" labely="-24" labelrot="0" Show_id="false" startpinid="Voltage Source-7-outPin" x="88" endpinid="atmega328-1-PC1" id="Connector-12" hflip="1" objectName="Connector-12" labelx="-16" mainComp="false" valLabely="0" enodeid="Circ_eNode-18"/>
+
+Unique  Id: Connector-14: 
+Circuit Id: Connector-14
+<item circRot="4.172289347715537e-309" rotation="0" pointList="160,-428,160,-312,-272,-312" circPos="0,0" boardPos="-1e+6,-1e+6" valLabelx="0" vflip="1" y="-428" valLabRot="0" itemtype="Connector" boardRot="-1e+6" labely="-24" labelrot="0" Show_id="false" startpinid="Voltage Source-13-outPin" x="160" endpinid="atmega328-1-PC0" id="Connector-14" hflip="1" objectName="Connector-14" labelx="-16" mainComp="false" valLabely="0" enodeid="Circ_eNode-19"/>
+ 
+</circuit>
